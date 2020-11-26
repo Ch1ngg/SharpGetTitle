@@ -12,7 +12,7 @@ SharpGetTitle.exe -i 127.0.0.1 -v
 SharpGetTitle.exe -i 127.0.0.1 -p 80-443
 SharpGetTitle.exe -i 127.0.0.1/24 -p 80-443
 SharpGetTitle.exe -i 127.0.0.1/24 -p 80-443 -t 200
-SharpGetTitle.exe -i 127.0.0.1-127.0.0.255 -p 80-443 -o demo.txt
+SharpGetTitle.exe -i 127.0.0.1-127.0.0.255 -p 80,443,8080 -o demo.txt
 ```
 Run in Cobaltstrike:
 ```
