@@ -23,3 +23,6 @@ execute-assembly SharpGetTitle "-i 127.0.0.1 -p 80"
 
 # 感谢
 https://github.com/RcoIl/CSharp-Tools/tree/master/SharpWebScan
+
+# 注意
+> 该项目仅供合法的渗透测试以及爱好者参考学习，请勿用于非法用途，否则自行承担相关责任！
