@@ -1,0 +1,7 @@
+F:\ws\SharpGetTitle\SharpGetTitle\bin\Debug\SharpGetTitle.exe.config
+F:\ws\SharpGetTitle\SharpGetTitle\bin\Debug\SharpGetTitle.exe
+F:\ws\SharpGetTitle\SharpGetTitle\bin\Debug\SharpGetTitle.pdb
+F:\ws\SharpGetTitle\SharpGetTitle\obj\Debug\SharpGetTitle.csproj.CoreCompileInputs.cache
+F:\ws\SharpGetTitle\SharpGetTitle\obj\Debug\SharpGetTitle.exe
+F:\ws\SharpGetTitle\SharpGetTitle\obj\Debug\SharpGetTitle.pdb
+F:\ws\SharpGetTitle\SharpGetTitle\obj\Debug\SharpGetTitle.csprojAssemblyReference.cache
